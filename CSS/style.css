@@ -1,0 +1,280 @@
+/* Estilos generales */
+
+html {
+    font-family: system-ui;
+}
+
+body {
+    height: 800px;
+   
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    
+}
+
+
+
+table{
+  
+    position: absolute;
+    align-items: center;
+    justify-content: center;  
+   background-color: black;
+    width: auto;
+    text-align: center;
+    border: 1px solid black;
+    right: 50px;
+    left: 50px;
+    
+}
+
+
+tr{
+    width: auto;
+}
+
+td{
+    width: 500px;
+    height: 47.5px;
+    transition: all 1s ease;
+}
+td:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+/*Hero*/
+.hero {
+
+    background: url(Imgs/CIRCULO.jpg) center;
+    background-size: cover;
+    height: 90vh;
+    transition: all 1s ease;
+}
+
+.hero2 {
+  
+  background: url(Imgs/Colores.jpg) ;
+  background-size: cover;
+    height: 100vh;
+    transition: all 1s ease;  
+  
+}
+
+
+.hero3 {
+  
+  background: url(Imgs/5fa8fe161efe1.jpg) ;
+  height: 60px;
+  transition: all 1s ease;
+  background-size: cover;
+  transition: all 0.1s ease;
+
+  
+}
+
+
+
+/* Menu Header Restaurante */
+ 
+header.main-header{
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    background-color: transparent;
+  }
+   
+  .header-wrap{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: transparent;
+    z-index: 999;
+  }
+   
+  .wrap-logo-header{
+    display: flex;
+    align-items: center;
+    flex-basis: 15%;
+  }
+   
+  .logo-header{
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ffffff;
+  }
+   
+  .nav-header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+   
+  .nav-wrap-header{
+    display: flex;
+    flex-basis: 50%;
+  }
+   
+  ul.main-menu{
+    display: flex;
+    width: 100%;
+    z-index: 99;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    font-size: 1.1rem;
+  }
+   
+  ul.main-menu #nav-main-contact{
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+    background-color: white;
+    color: white;
+  }
+   
+  li.menu-item{
+    margin: .75rem;
+    display: flex;
+  }
+   
+  li.menu-item a{
+    
+    padding: .5rem 1rem;
+    color: white;
+    font-size: 1.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+   
+  li.menu-item a:hover{
+    color: white;
+  }
+   
+  i.toggle-menu{
+    display: none;
+    background-color: #fff;
+    border: none;
+    z-index: 9999;
+  }
+   
+  i.toggle-menu img{
+    width: 27px;
+    z-index: 99;
+  }
+   
+  input#check{
+    display: none;
+  }
+
+  @media (min-width:880px){
+    .header-wrap{
+      padding: .5rem 5rem;
+    }
+  }
+   
+  @media (max-width:768px){
+    header{
+      margin-bottom: 4rem;
+    }
+    .header-wrap{
+      position: fixed;
+      width: 100%;
+      background-color: #fff;
+      padding: 0;
+      top: 0;
+      z-index: 9999;
+      height: 60px;
+    }
+    .wrap-logo-header{
+      position: fixed;
+      z-index: 999;
+      top: 3%;
+      left: 3%;
+    }
+    i.toggle-menu{
+      display: flex;
+    }
+    ul.main-menu,#nav-main-contact{
+      display: none;
+      left: 0;
+      margin: 0;
+      padding: 0;
+    }
+    ul.main-menu{
+      position: fixed;
+      background-color: #fff;
+    }
+    label.checkbtn{
+      position: fixed;
+      right: 3%;
+      top: 3%;
+      z-index: 9999;
+    }
+  
+   
+  }
+
+
+  .sidebar,a{
+    text-align:center;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    width: 100%;
+    height: 90px;
+    background-color: transparent;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 0;
+    transition: height .7s ease;
+    transition: all 0.7s ease;
+    color: black;
+
+  }
+  .sidebar:hover{
+    height: 170px;
+    color: white;
+    background-color: white;
+    transition: all 1s ease;
+    font-size: 24px;
+
+  
+  }
+
+  .sidebar:hover a{
+    
+    color: black ;
+  }
+  
+  .img1{
+    padding: 0;
+    margin: 0;
+    width: 50px;
+    height: 50px;
+  }
+
+
+a{
+    transition: transform 0.4s;
+}
+a:hover {
+    transform: translateY(-5px);
+}
+
+
+  section{
+    display:inline-block;
+  }
+
+
+
+ 
