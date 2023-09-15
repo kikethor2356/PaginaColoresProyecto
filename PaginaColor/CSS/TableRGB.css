@@ -1,0 +1,360 @@
+
+
+
+
+.Color1{
+color: white;
+background-color: rgb(0,0,0);
+}
+
+.Color2{
+color: white;
+background-color: rgb(0,51,0);
+}
+
+.Color3{
+color: white;
+background-color: rgb(0,0,102);
+}
+
+.Color4{
+color: white;
+background-color: rgb(0,0,153);
+}
+.Color5{
+color: white;
+background-color: rgb(0,0,204);
+}
+.Color6{
+color: white;
+background-color: rgb(0,0,255);
+}
+
+.Color7{
+color: white;
+background-color: rgb(0,102,0);
+}
+
+.Color8{
+color: white;
+background-color: rgb(0,102,51);
+}
+.Color9{
+color: white;
+background-color: rgb(0,102,102);
+}
+
+.Color10{
+color: white;
+background-color: rgb(0,102,153);
+}
+
+
+/*Aqui se completan 10 colores*/
+
+
+.Color11{
+color: white;
+background-color: rgb(0,102,204);
+}
+
+.Color12{
+color: white;
+background-color: rgb(0,102,255);
+}
+
+.Color13{
+color: black;
+background-color: rgb(0,153,0);
+}
+
+.Color14{
+color: black;
+background-color: rgb(0,153,51);
+}
+.Color15{
+color: black;
+background-color: rgb(0,153,102);
+}
+.Color16{
+color: black;
+background-color: rgb(0,153,153);
+}
+
+.Color17{
+color: black;
+background-color: rgb(0,153,204);
+}
+
+.Color18{
+color: black;
+background-color: rgb(0,153,255);
+}
+
+
+.Color19{
+color: black;
+background-color: rgb(51,204,0);
+}
+
+.Color20{
+color: black;
+background-color: rgb(51,204,51);
+}
+
+/*Aqui se completan 20 colores*/
+
+.Color21{
+color: black;
+background-color: rgb(51,204,102);
+}
+
+.Color22{
+color: black;
+background-color: rgb(51,204,153);
+}
+
+.Color23{
+color: black;
+background-color: rgb(51,204,204);
+}
+
+.Color24{
+color: black;
+background-color: rgb(51,204,255);
+
+}
+.Color25{
+color: black;
+background-color: rgb(102,204,0);
+}
+.Color26{
+color: black;
+background-color: rgb(102,204,51);
+}
+
+.Color27{
+color: black;
+background-color: rgb(102,204,102);
+}
+
+.Color28{
+color: black;
+background-color: rgb(102,204,153);
+}
+.Color29{
+color: black;
+background-color: rgb(102,204,204);
+}
+
+.Color30{
+color: black;
+background-color: rgb(102,204,255);
+}
+
+
+/*Aqui se completan 30 colores*/
+
+.Color31{
+color: black;
+background-color: rgb(102,255,0);
+}
+
+.Color32{
+color: black;
+background-color: rgb(102,255,51);
+}
+
+.Color33{
+color: black;
+background-color: rgb(102,255,102);
+}
+
+.Color34{
+color: black;
+background-color: rgb(102,255,153);
+}
+.Color35{
+color: black;
+background-color: rgb(102,255,204);
+}
+.Color36{
+color: black;
+background-color: rgb(102,255,255);
+}
+
+.Color37{
+color: black;
+background-color: rgb(204,255,0);
+}
+
+.Color38{
+color: black;
+background-color: rgb(204,255,51);
+}
+.Color39{
+color: black;
+background-color: rgb(204,255,102);
+}
+
+.Color40{
+color: black;
+background-color: rgb(204,255,153);
+}
+
+
+.Color41{
+color: black;
+background-color: rgb(204,255,204);
+}
+
+.Color42{
+color: black;
+background-color: rgb(204,255,255);
+}
+
+
+.Color43{
+color: black;
+background-color: rgb(255,51,0);
+}
+
+.Color44{
+color: black;
+background-color: rgb(255,51,51);
+}
+
+.Color45{
+color: black;
+background-color: rgb(255,51,102);
+}
+
+.Color46{
+color: black;
+background-color: rgb(255,51,153);
+}
+.Color47{
+color: black;
+background-color: rgb(255,51,204);
+}
+.Color48{
+color: black;
+background-color: rgb(255,51,255);
+}
+
+.Color49{
+color: black;
+background-color: rgb(255,102,0);
+}
+
+.Color50{
+color: black;
+background-color: rgb(255,102,51);
+}
+.Color51{
+color: black;
+background-color: rgb(255,102,102);
+}
+
+.Color52{
+color: black;
+background-color: rgb(255,102,153);
+}
+.Color53{
+color: black;
+background-color: rgb(255,102,204);
+}
+
+.Color54{
+color: black;
+background-color: rgb(255,102,255);
+}
+
+.Color55{
+color: black;
+background-color: rgb(255,153,0);
+}
+
+.Color56{
+color: black;
+background-color: rgb(255,153,51);
+}
+
+.Color57{
+color: black;
+background-color: rgb(255,153,102);
+}
+.Color58{
+color: black;
+background-color: rgb(255,153,153);
+}
+
+.Color59{
+color: black;
+background-color: rgb(255,153,204);
+}
+.Color60{
+color: black;
+background-color: rgb(255,153,255);
+}
+
+.Color61{
+color: black;
+background-color: rgb(255,204,0);
+}
+
+.Color62{
+color: black;
+background-color: rgb(255,204,51);
+}
+
+.Color63{
+color: black;
+background-color: rgb(255,204,102);
+}
+
+.Color64{
+color: black;
+background-color: rgb(255,204,153);
+}
+.Color65{
+color: black;
+background-color: rgb(255,204,204);
+}
+
+.Color66{
+color: black;
+background-color: rgb(255,204,255);
+}
+
+.Color67{
+color: black;
+background-color: rgb(255,255,0);
+}
+
+.Color68{
+color: black;
+background-color: rgb(255,255,51);
+}
+
+.Color69{
+color: black;
+background-color: rgb(255,255,102);
+}
+
+.Color70{
+color: black;
+background-color: rgb(255,255,153);
+}
+.Color71{
+color: black;
+background-color: rgb(255,255,204);
+}
+
+.Color72{
+color: black;
+background-color: rgb(255,255,255);
+}
+
+
+

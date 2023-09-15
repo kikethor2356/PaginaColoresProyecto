@@ -1,0 +1,49 @@
+
+.color1{
+    background-color: rgba(255, 0, 0, 0.5); 
+}
+
+.color2{
+    background-color: rgba(252, 139, 0, 1); 
+}
+
+.color3{
+    background-color: rgba(246, 255, 0, 1); 
+}
+
+.color4{
+    background-color: rgba(136, 255, 1, 1); 
+}
+
+.color5{
+    background-color: rgba(1, 255, 65, 1); 
+}
+
+.color6{
+    background-color: rgba(1, 255, 145, 1); 
+}
+
+.color7{
+    background-color: rgba(1, 251, 255, 1); 
+}
+
+.color8{
+    background-color: rgba(1, 1, 255, 1); 
+}
+
+.color9{
+    background-color: rgba(255, 1, 234, 1); 
+}
+
+.color10{
+    background-color: rgba(255, 1, 1, 1); 
+}
+
+.color11{
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+}
+
+.color12{
+    background-color: rgba(255, 255, 255, 1); 
+}
